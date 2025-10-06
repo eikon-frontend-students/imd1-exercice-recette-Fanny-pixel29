@@ -1,0 +1,51 @@
+img {
+  width: 190px;
+  height: 190px;
+  margin: 10px 90px 80px;
+}
+.border {
+  width: 500px;
+  height: 600px;
+  border-radius: 30px;
+  border: 20px solid #b8ce52;
+  background: #fef3d5;
+}
+.boiteimage {
+  width: 370px;
+  height: 213px;
+  background: #b8ce52;
+  margin: auto;
+}
+.boitetexte {
+  width: 370px;
+  height: 289px;
+  background: #b8ce52;
+  margin: auto;
+}
+h1 {
+  color: #000;
+  font-family: Impact;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+h2 {
+  color: #000;
+
+  font-family: Epilogue;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+ol {
+  color: #000;
+
+  font-family: Epilogue;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
